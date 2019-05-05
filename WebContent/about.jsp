@@ -14,7 +14,7 @@
                       <li><a href="offers.jsp">OFFERS</a></li>
                     <li><a href="order.jsp">ORDER</a></li>
                     <li><a href="about.jsp">ABOUT</a></li>
-					<li><a href="logout">LOGOUT</a></li>
+					<li><a href="logout.jsp">LOGOUT</a></li>
                 </ul>
             </nav>
             <h1 class="band-name band-name-large">GK's</h1>
