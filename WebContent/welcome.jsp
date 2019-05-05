@@ -14,10 +14,10 @@
  <header class="main-header">
             <nav class="nav main-nav">
                 <ul>
-                    <li><a href="offers.html">OFFERS</a></li>
-                    <li><a href="order.html">ORDER</a></li>
-                    <li><a href="about.html">ABOUT</a></li>
-					<li><a href="login.html">LOGOUT</a></li>
+                     <li><a href="offers.jsp">OFFERS</a></li>
+                    <li><a href="order.jsp">ORDER</a></li>
+                    <li><a href="about.jsp">ABOUT</a></li>
+					<li><a href="logout">LOGOUT</a></li>
                 </ul>
             </nav>
 	<h1 class="band-name band-name-large">GK's</h1>	
